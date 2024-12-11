@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi 👋 I'm Prince Kumar
+🌱 I’m currently learning Java
 
 <!--
 **Prince1895/Prince1895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
