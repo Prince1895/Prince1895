@@ -1,4 +1,4 @@
-<h1><center>## Hi 👋 I'm Prince Kumar</center></h1>
+## Hi 👋 I'm Prince Kumar
 <hr>
 🌱 I’m currently learning Java
 
