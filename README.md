@@ -39,7 +39,12 @@ _Passionate web development enthusiast currently pursuing a Bachelor of Technolo
 
 
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince1895&" alt="prince1895" /></p>
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince1895&show_icons=true&locale=en" alt="prince1895" /></p>
 
 ---
 
@@ -54,10 +59,6 @@ _Passionate web development enthusiast currently pursuing a Bachelor of Technolo
 <a href="https://github.com/akashdeep023" align="center">
   <img src="https://imgur.com/rilHVxA.png"/>
 </a>
-
----
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince1895&show_icons=true&locale=en" alt="prince1895" /></p>
 
 ---
 
