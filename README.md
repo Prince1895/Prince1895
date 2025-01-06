@@ -15,7 +15,7 @@
 
   ## 👀 **Professional Summary**
 
-_Passionate web development enthusiast currently pursuing a Bachelor of Technology in Computer Science specilization with DataScience. Focused on full-stack development and mastering data structures and algorithms (DSA) with Java. Eager to learn and explore new technologies, enjoying projects that challenge and enhance skills._
+_Passionate web development enthusiast currently pursuing a Bachelor of Technology in Computer Science specilization with DataScience(B-tech(CSE-DS)). Focused on full-stack development and mastering data structures and algorithms (DSA) with Java. Eager to learn and explore new technologies, enjoying projects that challenge and enhance skills._
 
 ---
 
