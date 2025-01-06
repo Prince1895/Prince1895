@@ -13,6 +13,12 @@
 
 - 📫 How to reach me **chauhanprince21153366@gmail.com**
 
+  ## 👀 **Professional Summary**
+
+_Passionate web development enthusiast currently pursuing a Bachelor of Technology in Computer Science specilization with DataScience. Focused on full-stack development and mastering data structures and algorithms (DSA) with Java. Eager to learn and explore new technologies, enjoying projects that challenge and enhance skills._
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prince1184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince1184" height="30" width="40" /></a>
