@@ -34,3 +34,17 @@ _Passionate web development enthusiast currently pursuing a Bachelor of Technolo
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince1895&show_icons=true&locale=en" alt="prince1895" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince1895&" alt="prince1895" /></p>
+
+## 🧑‍🏫 **All Projects**
+
+| `S.No` | `Mini Major Project` |                       `Live Link`                        |                          `GitHub Link`                          |
+| :----: | :------------------- | :------------------------------------------------------: | :-------------------------------------------------------------: |
+|  `01`  | `Amazon Clone`       |  [`Link`](https://prince1895-amazon-clone.netlify.app/)  |  [`Repository`](https://github.com/Prince1895/Amazon-clone)     |
+
+---
+
+<a href="https://github.com/akashdeep023" align="center">
+  <img src="https://imgur.com/rilHVxA.png"/>
+</a>
+
+---
