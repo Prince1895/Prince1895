@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Prince Kumar</h1>
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rohit....&center=true&size=26">
+  </a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" height="80"></h1>
 <h3 align="center">A passionate Computer Science Student specialization with DataScience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince1895&label=Profile%20views&color=0e75b6&style=flat" alt="prince1895" /> </p>
-
-- 🔭 I’m currently working on [ScriptWave](https://github.com/Prince1895/ScriptWave)
 
 - 🌱 I’m currently learning **DSA in Java , Full Stack Development**
    
