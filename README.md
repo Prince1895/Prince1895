@@ -1,65 +1,61 @@
- <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Prince....&center=true&size=26">
-  </a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" height="80" align="left"></h1>
-  
-<h3 align="center">A passionate Computer Science Student specialization with DataScience</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=princerey.princerey">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rohit....&center=true&size=26">
+  </a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" height="80"></h1>
+<h3 align="center">a Full Stack Web Developer, UI/UX Designer, Open-Source Enthusiast and Competitive Programmer  👀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince1895&label=Profile%20views&color=0e75b6&style=flat" alt="prince1895" /> </p>
+<hr>
+<p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=princerey&bg_color=0c1014&color=549b9c&line=21816b&point=3f8388&area=true&hide_border=true" alt="princerey" /></p>
+ 
+<hr>
 
-- 🌱 I’m currently learning **DSA in Java , Full Stack Development**
-   
-- ⚡ Practicing DSA Everyday.
+- 🌱 I’m currently learning **DSA**
 
-- 💬 I'm looking forward to contribute to some open source projects.
+- 💬 Ask me about **Web Development & DevOps**
 
-- 📫 How to reach me **chauhanprince21153366@gmail.com**
+- 📫 Ping me @ **rohkumar0126@gmail.com**
 
----
+<hr>
 
-  ## 👀 **Professional Summary**
-
-Passionate web development enthusiast currently pursuing a Bachelor of Technology in Computer Science specilization with DataScience(B-tech(CSE-DS)). Focused on full-stack development and mastering data structures and algorithms (DSA) with Java. Eager to learn and explore new technologies, enjoying projects that challenge and enhance skills.
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prince1184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince1184" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prince_1184" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prince_1184" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prince_1184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prince_1184" height="30" width="40" /></a>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80" height="70" > <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/rohit-kumar-771627242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitkumar" height="30" width="40" /></a>&nbsp;
+<a href="https://instagram.com/prince__rey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince__rey" height="30" width="40" /></a>&nbsp;
+<a href="https://www.codechef.com/users/prince_rey" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/codechef.png" alt="prince_rey"/></a>&nbsp;
+<a href="https://www.hackerrank.com/rohkumar0126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rohkumar0126" height="30" width="40" /></a>&nbsp;
+<a href="https://twitter.com/_prince_rey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_prince_rey_" height="30" width="40" /></a>&nbsp;
 </p>
+<br>
+<hr>
+<!-- <h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;
+     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;
+     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
+   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;
+    <a href="https://nodejs.org/en/" target="_blank">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="" width="40" height="40"/> </a>&nbsp;
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="" width="40" height="40"/>
+&nbsp;
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+</p> -->
+<br>
+  <div align=center>
+    <a href="https://github.com/princerey/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princerey&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
 
----
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princerey&show_icons=true&locale=en&theme=gotham" alt="princerey" /></p>
 
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince1895&show_icons=true&locale=en&layout=compact" alt="prince1895" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princerey&theme=gotham" alt="princerey" /></p>
 
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince1895&" alt="prince1895" /></p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince1895&show_icons=true&locale=en" alt="prince1895" /></p>
-
----
-
-## 🧑‍🏫 **All Projects**
-
-| `S.No` |    `Mini Project`    |                       `Live Link`                             |                          `GitHub Link`                          |
-| :----: | :------------------- | :------------------------------------------------------:      | :-------------------------------------------------------------: |
-|  `01`  | `Amazon Clone`       |  [`Link`](https://prince1895-amazon-clone.netlify.app/)       |  [`Repository`](https://github.com/Prince1895/Amazon-clone)     |
-|  `02`  | `Facebook Clone`     |  [`Link`](https://extraordinary-moonbeam-3394a3.netlify.app/) |  [`Repository`](https://github.com/Prince1895/facebook-clone)   |
-
----
-
-<a href="https://github.com/akashdeep023" align="center">
-  <img src="https://imgur.com/rilHVxA.png"/>
-</a>
-
----
