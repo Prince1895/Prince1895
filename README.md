@@ -18,4 +18,13 @@ A Full Stack Web Developer<br>Problem-Solving in Java<br>Open-Source Enthusiast 
 ---
 [![](https://visitcount.itsvg.in/api?id=Prince1895&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/prince1184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince1184" height="30" width="40" /></a>
+<a href="https://instagram.com/chauhanprince.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chauhanprince.01" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/prince_1895" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prince_1895" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prince_1184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prince_1184" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/prince1184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prince1184" height="30" width="40" /></a>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
