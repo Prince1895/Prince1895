@@ -1,31 +1,30 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=princerey.princerey">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rohit....&center=true&size=26">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Prince....&center=true&size=26">
   </a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" height="80"></h1>
-<h3 align="center">a Full Stack Web Developer, UI/UX Designer, Open-Source Enthusiast and Competitive Programmer  👀</h3>
+<h3 align="center">a Full Stack Web Developer, Problem-Solving in Java, Open-Source Enthusiast and Competitive Programmer  👀</h3>
 
 <hr>
-<p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=princerey&bg_color=0c1014&color=549b9c&line=21816b&point=3f8388&area=true&hide_border=true" alt="princerey" /></p>
+<p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Prince1895&bg_color=0c1014&color=549b9c&line=21816b&point=3f8388&area=true&hide_border=true" alt="Prince1895" /></p>
  
 <hr>
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Web Development & DevOps**
+- 💬 Ask me about **Web Development **
 
-- 📫 Ping me @ **rohkumar0126@gmail.com**
+- 📫 Ping me @ **chauhanprince21153366@gmail.com**
 
 <hr>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80" height="70" > <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/rohit-kumar-771627242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitkumar" height="30" width="40" /></a>&nbsp;
-<a href="https://instagram.com/prince__rey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince__rey" height="30" width="40" /></a>&nbsp;
-<a href="https://www.codechef.com/users/prince_rey" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/codechef.png" alt="prince_rey"/></a>&nbsp;
-<a href="https://www.hackerrank.com/rohkumar0126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rohkumar0126" height="30" width="40" /></a>&nbsp;
-<a href="https://twitter.com/_prince_rey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_prince_rey_" height="30" width="40" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/prince1184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="PrinceKumar" height="30" width="40" /></a>&nbsp;
+<a href="https://www.instagram.com/chauhanprince.01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince1895" height="30" width="40" /></a>&nbsp;
+<a href="https://www.codechef.com/users/prince_1895" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/codechef.png" alt="prince_1895"/></a>&nbsp;
+<a href="https://leetcode.com/u/Prince_1184/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FLeetCode-OpenSource&psig=AOvVaw3LzAFm89UtBb_7-jx0T7Di&ust=1742818780090000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCS2oGYoIwDFQAAAAAdAAAAABAE" alt="Prince1895" height="30" width="40" /></a>&nbsp;
 </p>
 <br>
 <hr>
@@ -46,11 +45,6 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 </p> -->
 <br>
-  <div align=center>
-    <a href="https://github.com/princerey/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princerey&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
 
 <hr>
 
