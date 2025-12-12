@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
-<h3 align="center">Data Structure & Algorithm || AWS || DEVOPS</h3>
+<h3 align="center">Data Structure & Algorithm || Backend || AWS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince1895&label=Profile%20views&color=0e75b6&style=flat" alt="prince1895" /> </p>
 
