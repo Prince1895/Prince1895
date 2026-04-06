@@ -10,8 +10,8 @@ I build scalable backend systems and cloud-native applications focused on perfor
 
 🔍 A multi-tenant SaaS platform that identifies and eliminates cloud infrastructure waste across AWS environments.
 
-🔗 **Live:** [https://your-flux-live-link.com](https://flux-web-azure.vercel.app/)  
-📂 **Repository:** [https://github.com/your-username/flux  ](https://github.com/Prince1895/Flux)
+🔗 **Live:** [Live](https://flux-web-azure.vercel.app/)  
+📂 **Repository:** [Repo](https://github.com/Prince1895/Flux)
 
 ### 🔥 Highlights
 - Built a Node.js + AWS SDK v3 engine to detect zombie resources across compute, storage, and networking (EC2, EBS, ELB, NAT, EIP, snapshots, security groups)
@@ -30,7 +30,7 @@ Node.js • AWS SDK v3 • PostgreSQL • Redis • Docker • React
 ### 🔗 Blockchain-Based Carbon Credit System
 
 
-📂 **Repository:**[ https://github.com/your-username/blockchain-mrv ](https://github.com/Prince1895/v0-blue-carbon-registry) 
+📂 **Repository:**[ Repo ](https://github.com/Prince1895/v0-blue-carbon-registry) 
 
 - Built backend APIs for a decentralized MRV system using Node.js and PostgreSQL
 - Developed Solidity smart contracts on Ethereum for transparent carbon credit verification
@@ -42,8 +42,8 @@ Node.js • AWS SDK v3 • PostgreSQL • Redis • Docker • React
 
 ### 📚 LevelUp – Scalable E-Learning Platform
 
-🔗 **Live:**  [https://github.com/your-username/levelup  ](https://levelup01.vercel.app/)
-📂 **Repository:** [ttps://your-levelup-live-link.com ](https://github.com/Prince1895/LevelUP) 
+🔗 **Live:**  [Live](https://levelup01.vercel.app/)
+📂 **Repository:** [Repo](https://github.com/Prince1895/LevelUP) 
 
 - Implemented RBAC-based authentication using JWT and middleware authorization
 - Built 15+ REST APIs with validation, error handling, and optimized MongoDB indexing
@@ -55,9 +55,8 @@ Node.js • AWS SDK v3 • PostgreSQL • Redis • Docker • React
 
 ### 📝 Domiko – CMS Platform
 
-🔗 **Live:**[ https://your-domiko-live-link.com  ](https://domiko-client.vercel.app/)
-📂 **Repository:**[ https://github.com/your-username/domiko  
-](https://github.com/Prince1895/Domiko)
+🔗 **Live:**[ Live](https://domiko-client.vercel.app/)
+📂 **Repository:**[ Repo ](https://github.com/Prince1895/Domiko)
 - Designed JWT-based authentication and admin-moderated publishing workflow
 - Built scalable REST APIs with optimized database queries and indexing
 
@@ -87,7 +86,9 @@ Node.js • AWS SDK v3 • PostgreSQL • Redis • Docker • React
 
 - Email: chauhanprince21153366@gmail.com  
 - LinkedIn: https://linkedin.com/in/prince1184  
-- Portfolio: https://linktr.ee/prince1184  
+- Linktree: https://linktr.ee/prince1184  
+- Portfolio: https://princekumar-fullstack-developer.vercel.app/
+- Resume: https://drive.google.com/file/d/12Lzixkw1zxerdY2gNzbG7fIgK5h8_mTT/view?usp=sharing
 
 ---
 
