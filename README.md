@@ -1,38 +1,83 @@
-<h1 align="center">Hi 👋, I'm Prince Kumar</h1>
-<h3 align="center">Data Structure & Algorithm || Backend || AWS</h3>
+# 👋 Hi, I'm Prince Kumar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince1895&label=Profile%20views&color=0e75b6&style=flat" alt="prince1895" /> </p>
+Data Structure and Algorithm | Backend Developer |  Devops & Cloud
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince1895" alt="prince1895" /></a> </p>
+I build scalable backend systems and cloud-based solutions focused on performance, cost optimization, and real-world impact.
 
-<p align="left"> <a href="https://twitter.com/pdotdev" target="blank"><img src="https://img.shields.io/twitter/follow/pdotdev?logo=twitter&style=for-the-badge" alt="pdotdev" /></a> </p>
+---
 
-- 📫 How to reach me **chauhanprince21153366@gmail.com**
+## 🚀 Key Project: Flux – Cloud Cost Optimization Engine
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fTQXQbLf9lVpe5ExIks73-GNj7iYSde1/view?usp=sharing](https://drive.google.com/file/d/1fTQXQbLf9lVpe5ExIks73-GNj7iYSde1/view?usp=sharing)
+🔍 A multi-tenant SaaS platform that detects and eliminates cloud infrastructure waste across AWS environments.
 
-- ⚡ Linktree **https://linktr.ee/prince1184**
+### 🔥 Highlights
+- Built a Node.js + AWS SDK v3 engine to detect zombie resources (EC2, EBS, ELB, NAT, EIP, snapshots, security groups)
+- Designed cost analysis logic using CloudWatch metrics to identify idle infrastructure and estimate real-time savings
+- Developed a multi-tenant backend with credit-based scans and OAuth authentication (Google/GitHub)
+- Automated multi-region scans with cron jobs and generated cost reports via email queue
+- Containerized services using Docker and deployed scalable architecture with high uptime
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 🧠 Tech Stack
+Node.js • AWS SDK v3 • PostgreSQL • Redis • Docker • React
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pdotdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pdotdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prince1184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince1184" height="30" width="40" /></a>
-<a href="https://medium.com/@pdotdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pdotdev" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prince_1895" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prince_1895" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/prince.chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prince.chauhan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prince_1184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prince_1184" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/prince1184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prince1184" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🧩 Other Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince1895&show_icons=true&locale=en&layout=compact" alt="prince1895" /></p>
+### 🔗 Blockchain-Based Carbon Credit System
+- Built backend APIs for decentralized MRV system using Node.js and PostgreSQL
+- Developed smart contracts in Solidity on Ethereum for transparent verification
+- Implemented secure authentication and blockchain-integrated data workflows
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince1895&show_icons=true&locale=en" alt="prince1895" /></p>
+**Tech Stack:** Node.js • Express • PostgreSQL • Solidity • Ethereum • Prisma
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince1895&" alt="prince1895" /></p>
+---
+
+### 📚 LevelUp – Scalable E-Learning Platform
+- Developed RBAC-based authentication with JWT
+- Built 15+ REST APIs with optimized MongoDB schema
+- Integrated Razorpay payment system and real-time progress tracking via WebSockets
+
+**Tech Stack:** Node.js • MongoDB • AWS • WebSockets • Razorpay
+
+---
+
+### 📝 Domiko – CMS Platform
+- Designed JWT-based authentication and admin publishing workflow
+- Built scalable REST APIs with optimized database queries
+
+**Tech Stack:** Node.js • MongoDB • JWT • Vercel
+
+---
+
+## 🏆 Achievements
+
+- 🥇 LeetCode: Solved 500+ problems | Top 0.8% (Global Rank 206/26,392) | Rating 1760  
+- ⭐ CodeChef: 2★ Programmer (Max Rating: 1417)  
+- 🏆 Hackathon Winner: 1st place among 60 teams  
+
+---
+
+## 🛠️ Skills
+
+**Languages:** Java, JavaScript, SQL  
+**Backend:** Node.js, Express  
+**Databases:** PostgreSQL, MongoDB  
+**Cloud & DevOps:** AWS, Docker, CI/CD  
+**Tools:** Git, Postman, Linux  
+
+---
+
+## 📫 Contact
+
+- Email: chauhanprince21153366@gmail.com  
+- LinkedIn: https://linkedin.com/in/prince1184  
+- Portfolio: https://linktr.ee/prince1184  
+
+---
+
+## ⚡ What I’m Focused On
+
+- Backend system design & scalability  
+- Cloud cost optimization & AWS architecture  
+- DSA & problem-solving for high-performance systems  
