@@ -1,21 +1,24 @@
 # 👋 Hi, I'm Prince Kumar
 
-Data Structure and Algorithm | Backend Developer |  Devops & Cloud
+Data Structure and Algorithm | Devops & Cloud | Backend
 
-I build scalable backend systems and cloud-based solutions focused on performance, cost optimization, and real-world impact.
+I build scalable backend systems and cloud-native applications focused on performance, cost optimization, and real-world impact.
 
 ---
 
 ## 🚀 Key Project: Flux – Cloud Cost Optimization Engine
 
-🔍 A multi-tenant SaaS platform that detects and eliminates cloud infrastructure waste across AWS environments.
+🔍 A multi-tenant SaaS platform that identifies and eliminates cloud infrastructure waste across AWS environments.
+
+🔗 **Live:** [https://your-flux-live-link.com](https://flux-web-azure.vercel.app/)  
+📂 **Repository:** [https://github.com/your-username/flux  ](https://github.com/Prince1895/Flux)
 
 ### 🔥 Highlights
-- Built a Node.js + AWS SDK v3 engine to detect zombie resources (EC2, EBS, ELB, NAT, EIP, snapshots, security groups)
-- Designed cost analysis logic using CloudWatch metrics to identify idle infrastructure and estimate real-time savings
+- Built a Node.js + AWS SDK v3 engine to detect zombie resources across compute, storage, and networking (EC2, EBS, ELB, NAT, EIP, snapshots, security groups)
+- Designed cost analysis logic using CloudWatch metrics to detect zero-usage resources and estimate real-time monthly savings
 - Developed a multi-tenant backend with credit-based scans and OAuth authentication (Google/GitHub)
-- Automated multi-region scans with cron jobs and generated cost reports via email queue
-- Containerized services using Docker and deployed scalable architecture with high uptime
+- Automated multi-region scanning using cron jobs and generated detailed cost-saving reports via email queue
+- Containerized services using Docker and deployed a scalable architecture with high availability
 
 ### 🧠 Tech Stack
 Node.js • AWS SDK v3 • PostgreSQL • Redis • Docker • React
@@ -25,17 +28,25 @@ Node.js • AWS SDK v3 • PostgreSQL • Redis • Docker • React
 ## 🧩 Other Projects
 
 ### 🔗 Blockchain-Based Carbon Credit System
-- Built backend APIs for decentralized MRV system using Node.js and PostgreSQL
-- Developed smart contracts in Solidity on Ethereum for transparent verification
-- Implemented secure authentication and blockchain-integrated data workflows
+
+
+📂 **Repository:**[ https://github.com/your-username/blockchain-mrv ](https://github.com/Prince1895/v0-blue-carbon-registry) 
+
+- Built backend APIs for a decentralized MRV system using Node.js and PostgreSQL
+- Developed Solidity smart contracts on Ethereum for transparent carbon credit verification
+- Implemented secure authentication and blockchain-integrated workflows
 
 **Tech Stack:** Node.js • Express • PostgreSQL • Solidity • Ethereum • Prisma
 
 ---
 
 ### 📚 LevelUp – Scalable E-Learning Platform
-- Developed RBAC-based authentication with JWT
-- Built 15+ REST APIs with optimized MongoDB schema
+
+🔗 **Live:**  [https://github.com/your-username/levelup  ](https://levelup01.vercel.app/)
+📂 **Repository:** [ttps://your-levelup-live-link.com ](https://github.com/Prince1895/LevelUP) 
+
+- Implemented RBAC-based authentication using JWT and middleware authorization
+- Built 15+ REST APIs with validation, error handling, and optimized MongoDB indexing
 - Integrated Razorpay payment system and real-time progress tracking via WebSockets
 
 **Tech Stack:** Node.js • MongoDB • AWS • WebSockets • Razorpay
@@ -43,8 +54,12 @@ Node.js • AWS SDK v3 • PostgreSQL • Redis • Docker • React
 ---
 
 ### 📝 Domiko – CMS Platform
-- Designed JWT-based authentication and admin publishing workflow
-- Built scalable REST APIs with optimized database queries
+
+🔗 **Live:**[ https://your-domiko-live-link.com  ](https://domiko-client.vercel.app/)
+📂 **Repository:**[ https://github.com/your-username/domiko  
+](https://github.com/Prince1895/Domiko)
+- Designed JWT-based authentication and admin-moderated publishing workflow
+- Built scalable REST APIs with optimized database queries and indexing
 
 **Tech Stack:** Node.js • MongoDB • JWT • Vercel
 
@@ -52,9 +67,9 @@ Node.js • AWS SDK v3 • PostgreSQL • Redis • Docker • React
 
 ## 🏆 Achievements
 
-- 🥇 LeetCode: Solved 500+ problems | Top 0.8% (Global Rank 206/26,392) | Rating 1760  
+- 🥇 LeetCode: Solved 500+ problems | Top 0.8% (Rank 206/26,392) | Rating 1760  
 - ⭐ CodeChef: 2★ Programmer (Max Rating: 1417)  
-- 🏆 Hackathon Winner: 1st place among 60 teams  
+- 🏆 Hackathon: 1st place among 60 teams (Code Puzzle Hack)  
 
 ---
 
@@ -76,8 +91,8 @@ Node.js • AWS SDK v3 • PostgreSQL • Redis • Docker • React
 
 ---
 
-## ⚡ What I’m Focused On
+## ⚡ Focus Areas
 
 - Backend system design & scalability  
 - Cloud cost optimization & AWS architecture  
-- DSA & problem-solving for high-performance systems  
+- DSA & high-performance problem solving  
