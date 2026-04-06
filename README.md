@@ -118,3 +118,7 @@ Node.js • AWS SDK v3 • PostgreSQL • Redis • Docker • React
 - Backend system design & scalability  
 - Cloud cost optimization & AWS architecture  
 - DSA & high-performance problem solving  
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="300">
+<br><br>
