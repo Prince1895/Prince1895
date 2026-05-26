@@ -51,7 +51,7 @@ Node.js • AWS SDK v3 • PostgreSQL • Redis • Docker • React
 ### 🔗 Blockchain-Based Carbon Credit System
 
 
-📂 **Repository:**[ Repo ](https://github.com/Prince1895/v0-blue-carbon-registry) 
+📂 **Repository:**[ Repo ](https://github.com/Prince1895/SIH25038-poject-Blockchain--Based-Blue-Carbon-Registry-and-MRV-System) 
 
 - Built backend APIs for a decentralized MRV system using Node.js and PostgreSQL
 - Developed Solidity smart contracts on Ethereum for transparent carbon credit verification
