@@ -70,7 +70,7 @@ Node.js • AWS SDK v3 • PostgreSQL • Redis • Docker • React
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 **Languages:** Java, JavaScript, SQL  
 **Backend:** Node.js, Express  
